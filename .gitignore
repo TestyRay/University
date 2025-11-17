@@ -9,3 +9,6 @@ venv/
 # Ignore IDE settings
 .idea/
 .vscode/
+
+# Temp workspace for experiments
+temp/
